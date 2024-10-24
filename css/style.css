@@ -360,6 +360,9 @@
     border: 1.5px solid #E5E5EA;
 
 }
+.project-select:focus {
+    border-color: #0076F5;
+}
 
 option {
     font-size: 14px;
