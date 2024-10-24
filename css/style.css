@@ -446,6 +446,12 @@ option {
     background-color: #dae7f5;
     font-size: 16px;
 }
+.plus-main {
+    margin-right: 5px;
+    position: relative;
+    top: 1px;
+}
+
 
 /* final  */
 
